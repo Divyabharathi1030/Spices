@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border-radius: 25px;
+}
+.navbar{
+    background-color: rgba(14, 211, 14, 0.171);
+}
+.navbar-brand img{
+    margin-left: 100px;
+}
+.collapse ul{
+    width: 50%;
+}
+.heroSection{
+    background-image: url(./Images/home-bg.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+}
+.jumbotron{
+    padding: 200px 100px ;
+    background-color: rgba(14, 211, 14, 0.171);
+}
+.jumbotron h1{
+    text-transform: capitalize;
+    font-size: 80px;
+    color: rgb(18, 99, 16);
+}
+.jumbotron p{
+    width: 40%;
+    margin-top: 20px;
+    color: #000;
+}
+h2{
+    color: rgb(18, 99, 16);
+    font-size: 40px !important;
+}
+#home{
+    margin-top: 20px;
+}
+.about{
+    background-color: rgba(14, 211, 14, 0.171);
+}
+#product{
+    background-color: rgba(14, 211, 14, 0.171);
+}
+.product a{
+    margin-left: 70px !important;
+}
+.team{
+    background-color: rgba(14, 211, 14, 0.171);
+}
+.contact{
+    background-color: rgba(14, 211, 14, 0.171);
+}
+.footer{
+    background-color: rgba(14, 211, 14, 0.171);
+}
+.footer p{
+    color: rgb(18, 99, 16);
+    font-size: 25px;
+}

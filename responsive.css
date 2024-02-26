@@ -1,0 +1,18 @@
+@media (max-width:776px){
+    .navbar-brand img{
+        margin-left: 50px;
+    }
+    .heroSection{
+        width: 100%;
+    }
+    .jumbotron{
+        width: 100%;
+        padding: 140px 10px;
+    }
+    .jumbotron p{
+        width: 80%;
+    }
+    .product .row{
+        gap: 3rem;
+    }
+}
